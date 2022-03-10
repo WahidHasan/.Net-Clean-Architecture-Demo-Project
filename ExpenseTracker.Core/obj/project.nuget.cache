@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "J/4t86o4qrnfsAtDciyc2jz+zoKv0g5hL/NeSf8l35+gLMcBVvUUVRzksUJVyt0CxfQK+7oQETepuHErvWq8Xw==",
+  "success": true,
+  "projectFilePath": "D:\\WAHID\\Programming\\Dot Net Core\\ExpenseTracker\\ExpenseTracker.Core\\ExpenseTracker.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wahid.hasan\\.nuget\\packages\\automapper\\7.0.1\\automapper.7.0.1.nupkg.sha512",
+    "C:\\Users\\wahid.hasan\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\5.0.1\\automapper.extensions.microsoft.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\wahid.hasan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\wahid.hasan\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

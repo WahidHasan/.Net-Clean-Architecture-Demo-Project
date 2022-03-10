@@ -1,0 +1,12 @@
+D:\WAHID\Programming\Dot Net Core\ExpenseTracker\ExpenseTracker.Application\bin\Debug\net5.0\ExpenseTracker.Application.deps.json
+D:\WAHID\Programming\Dot Net Core\ExpenseTracker\ExpenseTracker.Application\bin\Debug\net5.0\ExpenseTracker.Application.dll
+D:\WAHID\Programming\Dot Net Core\ExpenseTracker\ExpenseTracker.Application\bin\Debug\net5.0\ref\ExpenseTracker.Application.dll
+D:\WAHID\Programming\Dot Net Core\ExpenseTracker\ExpenseTracker.Application\bin\Debug\net5.0\ExpenseTracker.Application.pdb
+D:\WAHID\Programming\Dot Net Core\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net5.0\ExpenseTracker.Application.csprojAssemblyReference.cache
+D:\WAHID\Programming\Dot Net Core\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net5.0\ExpenseTracker.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\WAHID\Programming\Dot Net Core\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net5.0\ExpenseTracker.Application.AssemblyInfoInputs.cache
+D:\WAHID\Programming\Dot Net Core\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net5.0\ExpenseTracker.Application.AssemblyInfo.cs
+D:\WAHID\Programming\Dot Net Core\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net5.0\ExpenseTracker.Application.csproj.CoreCompileInputs.cache
+D:\WAHID\Programming\Dot Net Core\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net5.0\ExpenseTracker.Application.dll
+D:\WAHID\Programming\Dot Net Core\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net5.0\ref\ExpenseTracker.Application.dll
+D:\WAHID\Programming\Dot Net Core\ExpenseTracker\ExpenseTracker.Application\obj\Debug\net5.0\ExpenseTracker.Application.pdb
